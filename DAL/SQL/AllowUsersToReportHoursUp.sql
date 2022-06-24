@@ -1,0 +1,1 @@
+GRANT EXECUTE ON OBJECT::ReportHours TO UserRole
